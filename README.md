@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Lua, C++, Roblox**
+- 💬 Ask me about **Lua, Roblox, C++, Python**
 
 - 📫 How to reach me **@wkeisuke on discord**
 
